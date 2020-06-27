@@ -8,3 +8,5 @@ pyvenv.cfg
 
 Lib/
 Scripts/
+.vscode/
+_DOWNLOAD_/
