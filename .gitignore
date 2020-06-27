@@ -5,8 +5,9 @@ __pycache__/
 *$py.class
 
 pyvenv.cfg
+Test.xlsx
 
 Lib/
 Scripts/
 .vscode/
-_DOWNLOAD_/
+__DOWNLOAD__/
